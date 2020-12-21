@@ -1,5 +1,7 @@
 # HelloWorldAgain
 
+I AM ALWAYS BRANCHING OUT WITHOUT MERGE WHENEVER I ADDED A NEW FEATURE. not ideal but i just want to have a snapshot of ALL the working pushed state of the practice project. thaaaanks
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
 
 ## Development server
